@@ -1,0 +1,41 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Nelson Tam",
+	"home_page_url": "https://nelson.micro.blog/",
+	"feed_url": "https://nelson.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://nelson.micro.blog/2017/06/12/113056.html",
+	      	
+			"content_html": "<p><a href=\"https://mobile.nytimes.com/2017/06/10/world/asia/china-bridges-infrastructure.html\">mobile.nytimes.com/2017/06/1…</a></p>\n",
+			"date_published": "2017-06-12T21:30:56+10:00",
+			"url": "https://nelson.micro.blog/2017/06/12/113056.html"
+		},
+		
+		{
+			"id": "http://nelson.micro.blog/2017/06/08/name-an-industry.html",
+	      	
+			"content_html": "<p>Name an industry and I’ll return how computation will transform it</p>\n",
+			"date_published": "2017-06-09T07:08:55+10:00",
+			"url": "https://nelson.micro.blog/2017/06/09/name-an-industry.html"
+		},
+		
+		{
+			"id": "http://nelson.micro.blog/2017/06/08/machine-learning-is.html",
+	      	
+			"content_html": "<p>Machine learning is the new software</p>\n",
+			"date_published": "2017-06-09T07:07:43+10:00",
+			"url": "https://nelson.micro.blog/2017/06/09/machine-learning-is.html"
+		},
+		
+		{
+			"id": "http://nelson.micro.blog/2017/04/30/hello-world.html",
+	      	
+			"content_html": "<p>Hello world</p>\n",
+			"date_published": "2017-05-01T08:30:45+10:00",
+			"url": "https://nelson.micro.blog/2017/05/01/hello-world.html"
+		}
+		
+	]
+}
