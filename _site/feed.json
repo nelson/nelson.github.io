@@ -5,13 +5,5 @@
 	"feed_url": "https://nelson.micro.blog/feed.json",
 	"items": [
 		
-		{
-			"id": "http://nelson.micro.blog/2017/04/30/hello-world.html",
-	      	
-			"content_html": "<p>Hello world</p>\n",
-			"date_published": "2017-05-01T08:30:45+10:00",
-			"url": "https://nelson.micro.blog/2017/05/01/hello-world.html"
-		}
-		
 	]
 }
